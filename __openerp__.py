@@ -7,6 +7,7 @@
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
+Das ist der mega Test
         Long description of module's purpose
     """,
 
